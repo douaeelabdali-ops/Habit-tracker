@@ -1,4 +1,4 @@
-# 🧠 DESIGN — Habit Tracker
+ DESIGN — Habit Tracker
 
 ## Contexte
 
